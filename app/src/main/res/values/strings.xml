@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VM</string>
+    <string name="finished">Finished</string>
 </resources>
